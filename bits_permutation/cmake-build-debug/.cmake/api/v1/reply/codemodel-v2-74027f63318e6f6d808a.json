@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bits_permutation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bits_permutation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bits_permutation-Debug-26da443aa374792ad16a.json",
+					"name" : "bits_permutation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation/cmake-build-debug",
+		"source" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

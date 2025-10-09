@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bits_permutation.dir/main.cpp.o -o bits_permutation 
