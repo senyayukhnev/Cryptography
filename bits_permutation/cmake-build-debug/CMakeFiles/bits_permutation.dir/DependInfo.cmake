@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/Алсений/CLionProjects/cryptography/bits_permutation/main.cpp" "CMakeFiles/bits_permutation.dir/main.cpp.o" "gcc" "CMakeFiles/bits_permutation.dir/main.cpp.o.d"
+  "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation/main.cpp" "CMakeFiles/bits_permutation.dir/main.cpp.o" "gcc" "CMakeFiles/bits_permutation.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

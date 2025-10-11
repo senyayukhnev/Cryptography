@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation/cmake-build-debug"
+			"value" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation"
+			"value" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1167,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation/cmake-build-debug"
+			"value" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation/cmake-build-debug"
 		},
 		{
 			"name" : "bits_permutation_IS_TOP_LEVEL",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation"
+			"value" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation"
 		}
 	],
 	"kind" : "cache",

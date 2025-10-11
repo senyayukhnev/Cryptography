@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation/cmake-build-debug",
-		"source" : "/mnt/c/Users/\u0410\u043b\u0441\u0435\u043d\u0438\u0439/CLionProjects/cryptography/bits_permutation"
+		"build" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation/cmake-build-debug",
+		"source" : "/mnt/c/Users/senya/CLionProjects/cryptography/bits_permutation"
 	},
 	"version" : 
 	{
