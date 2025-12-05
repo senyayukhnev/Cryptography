@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b71d254-bf3b-43e1-bb91-84fbfaff96c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/DEAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/DES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/feistel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/key_schedule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/round_transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/context/context.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/context/modes_enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/context/padding_enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symcrypto/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symcrypto/block_cypher/ToyCipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bits_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/bits_permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symcrypto/context/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/symcrypto/context/context.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1762355578477</updated>
       <workItem from="1762355579751" duration="2893000" />
-      <workItem from="1763049474324" duration="10017000" />
+      <workItem from="1763049474324" duration="11792000" />
+      <workItem from="1763469619665" duration="645000" />
+      <workItem from="1764532810924" duration="57000" />
+      <workItem from="1764942682998" duration="4064000" />
     </task>
     <servers />
   </component>

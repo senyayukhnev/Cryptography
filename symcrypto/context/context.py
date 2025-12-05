@@ -11,7 +11,7 @@ class CryptoContext:
     def __init__(self, cipher_factory, master_key: bytes, mode: ModeEnum, padding: PaddingEnum,
                  iv: Optional[bytes] = None, *, proc_workers: Optional[int] = None,
                  thread_workers: Optional[int] = None, segment_blocks: int = 1024, **mode_params):
-        self.cipher_factory = cipher_factory # функция возвращающая уже объект алгоритма шифрования
+        self.cipher_factory = cipher_factory # функция возвращающая уже объект алгоритма шифрования (фабрика-функция)
         self.master_key = master_key
         self.mode = mode
         self.padding = padding
